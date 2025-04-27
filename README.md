@@ -20,3 +20,5 @@ The model works very well, i uploaded output of the model during training in a f
 (5) Extract images from pdf chess book , i choose one of them 
 
 (6) Test the results on the extracted image and open lichess to analyze position and find the best move. 
+
+note that the model sometimes get confused, it detects the black king as white king , in the case that the extracted image quality not good and may need some enhancement using openCV. 
